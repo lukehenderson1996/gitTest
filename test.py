@@ -1,1 +1,1 @@
-testList = ['cont', 'cont2']
+testList = ['cont', 'CHANGED']
