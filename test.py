@@ -14,7 +14,5 @@ import colors as cl
 cl.green('Program Start')
 
 #and a change
-#its
 #UP UP AND AWAY 
-#a
-#second conflict 
+#1 CONFLICTING CHANGE 1 
