@@ -1,4 +1,7 @@
 '''Branch: develop-linux'''
+
+#WINDOWS SPECIFIC FEATURE HERE
+#it has now been tested and debugged for all platforms
 __version__ = '0.1'
 
 testList = ['cont', 'CHANGED']
