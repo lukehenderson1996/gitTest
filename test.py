@@ -16,6 +16,8 @@ newList = []
 
 #4 5 6 7
 
+#new develop idea
+
 import requests
 import colors as cl 
 
