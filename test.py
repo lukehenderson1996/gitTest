@@ -1,4 +1,6 @@
 '''Branch: develop'''
+
+#HERE'S SOME SPECIFIC FUNCTIONALITY, NOT PLATFORM DEPENDENT 
 __version__ = '0.1'
 
 testList = ['cont', 'CHANGED']
