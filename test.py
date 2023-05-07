@@ -1,4 +1,4 @@
-'''Branch: develop-linux'''
+'''general comment'''
 
 #EMERGENCY BUGFIX
 
