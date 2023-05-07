@@ -1,4 +1,4 @@
-'''Branch: master (or main)'''
+'''general comment'''
 
 #EMERGENCY BUGFIX
 
