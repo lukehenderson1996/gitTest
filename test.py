@@ -14,6 +14,8 @@ newList = []
 
 #BUGFIX #3
 
+#4
+
 import requests
 import colors as cl 
 
