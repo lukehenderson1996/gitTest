@@ -1,4 +1,4 @@
-'''Branch: master (or main)'''
+'''Branch: develop'''
 __version__ = '0.1'
 
 testList = ['cont', 'CHANGED']
