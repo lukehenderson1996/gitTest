@@ -12,7 +12,7 @@ testList = ['cont', 'CHANGED']
 newList = []
 
 
-
+#BUGFIX #2
 
 import requests
 import colors as cl 
