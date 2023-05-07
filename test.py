@@ -1,5 +1,7 @@
 '''Branch: develop-linux'''
 
+#EMERGENCY BUGFIX
+
 #WINDOWS SPECIFIC FEATURE HERE
 #it has now been tested and debugged for all platforms
 __version__ = '0.1'
@@ -8,7 +10,7 @@ testList = ['cont', 'CHANGED']
 newList = []
 
 
-
+#BUGFIX #2
 
 import requests
 import colors as cl 
