@@ -1,6 +1,11 @@
 '''Branch: master (or main)'''
 
 #EMERGENCY BUGFIX
+
+#WINDOWS SPECIFIC FEATURE HERE
+#it has now been tested and debugged for all platforms
+
+#EMERGENCY BUGFIX
 __version__ = '0.1'
 
 testList = ['cont', 'CHANGED']
