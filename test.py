@@ -5,6 +5,7 @@
 #WINDOWS SPECIFIC FEATURE HERE
 #it has now been tested and debugged for all platforms
 __version__ = '0.1'
+_PY_VERSION = (3, 11)
 
 testList = ['cont', 'CHANGED']
 newList = []
