@@ -9,6 +9,7 @@ __version__ = '0.1'
 testList = ['cont', 'CHANGED']
 newList = []
 newDevelopBranchVariable = {}
+newDevelopBranchVariable2 = None
 
 
 #BUGFIX #2
